@@ -5,7 +5,7 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 ![image](https://user-images.githubusercontent.com/108549074/233498254-c66f54a9-2a1e-40fc-b07d-3d79d16fdc6f.png)
 
 |       S K I L L S       |
-|------------|------------|
+|-------------------------|
 | React      | NodeJs     |
 | JavaScript | Express    |
 | Render     | MongoDB    |
@@ -14,7 +14,7 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 | Python     | Django     |
 | Git        | Bash       |
 | Bootstrap  | PostgreSql |
-|------------|------------|
+|-------------------------|
 
 
 ## Software Used:
