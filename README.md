@@ -6,14 +6,14 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 
 |       S K I L L S       |
 |-------------------------|
-| React      | NodeJs     |
-| JavaScript | Express    |
-| Render     | MongoDB    |
-| HTML5      | CSS3       |
-| Django     | Heroku     |
-| Python     | Django     |
-| Git        | Bash       |
-| Bootstrap  | PostgreSql |
+| React        NodeJs     |
+| JavaScript   Express    |
+| Render       MongoDB    |
+| HTML5        CSS3       |
+| Django       Heroku     |
+| Python       Django     |
+| Git          Bash       |
+| Bootstrap    PostgreSql |
 
 
 
