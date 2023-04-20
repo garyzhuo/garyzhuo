@@ -1,16 +1,15 @@
-### Hi there 👋
+From selling dream homes to coding dream apps, I'm the real(estate)-deal engineer who keeps the bugs in check while sealing the deal on your next project! 🏠➡️💻🔧😄
 
-<!--
-**garyzhuo/garyzhuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I've worked with:
+![image](https://user-images.githubusercontent.com/108549074/233498254-c66f54a9-2a1e-40fc-b07d-3d79d16fdc6f.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:	
+React	NodeJs
+JavaScript	Express
+Render	MongoDB
+HTML5	CSS3
+Django	Heroku
+Python	Django
+Git	Bash
+Bootstrap	PostgreSql
