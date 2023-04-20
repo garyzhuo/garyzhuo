@@ -14,7 +14,7 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 | Python     | Django     |
 | Git        | Bash       |
 | Bootstrap  | PostgreSql |
-|-------------------------|
+
 
 
 ## Software Used:
@@ -25,4 +25,3 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 |        VS Code         |
 |       Postman API      |
 |      REST Framework    |
-|------------------------|
