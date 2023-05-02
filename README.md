@@ -4,11 +4,11 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garyzhuo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://komarev.com/ghpvc/?username=garyzhuo&color=brightgreen&style=flat)
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/qw4jfgb1a4fbj0t04g07zjo3d) [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/garyzhuo)
+![Profile views](https://komarev.com/ghpvc/?username=garyzhuo&color=brightgreen&style=flat) [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/garyzhuo)
 
 
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/qw4jfgb1a4fbj0t04g07zjo3d) 
 ## I've worked with:
 ![image](https://user-images.githubusercontent.com/108549074/233498254-c66f54a9-2a1e-40fc-b07d-3d79d16fdc6f.png)
 
