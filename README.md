@@ -1,5 +1,16 @@
 From selling dream homes to coding dream apps, I'm the real(estate)-deal engineer who keeps the bugs in check while sealing the deal on your next project! 🏠➡️💻🔧😄
 
+## 📈 GitHub Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garyzhuo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=garyzhuo&color=brightgreen&style=flat)
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/qw4jfgb1a4fbj0t04g07zjo3d)
+
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/garyzhuo)
+
 
 ## I've worked with:
 ![image](https://user-images.githubusercontent.com/108549074/233498254-c66f54a9-2a1e-40fc-b07d-3d79d16fdc6f.png)
@@ -23,8 +34,9 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 3. [Brick By Brick](https://brickbybrick.herokuapp.com/) - A full-stack web application for personalized LEGO set management.
 4. [Film Frenzy](https://film-frenzy.herokuapp.com/) - A dynamic, responsive website for exploring the latest trends in cinema.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garyzhuo&repo=World-Explorer&theme=radical)](https://github.com/garyzhuo/World-Explorer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garyzhuo&repo=Aesthetic-Domain&theme=radical)](https://github.com/garyzhuo/Aesthetic-Domain)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garyzhuo&repo=Brick-By-Brick&theme=radical)](https://github.com/garyzhuo/Brick-By-Brick)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garyzhuo&repo=Film-Frenzy&theme=radical)](https://github.com/garyzhuo/Film-Frenzy)
+
 
 
 ## Software Used:
@@ -46,21 +58,8 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 - [GitHub](https://github.com/garyzhuo)
 
 
-## 📈 GitHub Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garyzhuo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://komarev.com/ghpvc/?username=garyzhuo&color=brightgreen&style=flat)
-
-
-
-### 📝 Latest Blog Posts
+### 📝 Latest Recommended Posts:
 <!-- BLOG-POST-LIST:START -->
 - [How to build a responsive website using React and Tailwind CSS](https://www.garyzhuo.com/react-tailwind-css)
 - [Getting started with Django: A beginner's guide](https://www.garyzhuo.com/django-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/qw4jfgb1a4fbj0t04g07zjo3d)
-
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/garyzhuo)
