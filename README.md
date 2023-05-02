@@ -6,10 +6,7 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 
 ![Profile views](https://komarev.com/ghpvc/?username=garyzhuo&color=brightgreen&style=flat)
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/qw4jfgb1a4fbj0t04g07zjo3d)
-
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/garyzhuo)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/qw4jfgb1a4fbj0t04g07zjo3d) [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/garyzhuo)
 
 
 ## I've worked with:
