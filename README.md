@@ -32,7 +32,7 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 4. [Film Frenzy](https://film-frenzy.herokuapp.com/) - A dynamic, responsive website for exploring the latest trends in cinema.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garyzhuo&repo=Brick-By-Brick&theme=radical)](https://github.com/jimcreel/BrickByBrick)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garyzhuo&repo=Film-Frenzy&theme=radical)](https://github.com/garyzhuo/FilmFrenzy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garyzhuo&repo=FilmFrenzy&theme=radical)](https://github.com/garyzhuo/FilmFrenzy)
 
 
 
