@@ -20,8 +20,12 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 
 1. [World Explorer](https://github.com/garyzhuo/World-Explorer) - A dynamic web application for exploring detailed information on countries worldwide.
 2. [Aesthetic Domain](https://github.com/garyzhuo/Aesthetic-Domain) - A virtual art museum web application for engaging with art pieces.
-3. [Brick By Brick](https://github.com/garyzhuo/Brick-By-Brick) - A full-stack web application for personalized LEGO set management.
-4. [Film Frenzy](https://github.com/garyzhuo/Film-Frenzy) - A dynamic, responsive website for exploring the latest trends in cinema.
+3. [Brick By Brick](https://brickbybrick.herokuapp.com/) - A full-stack web application for personalized LEGO set management.
+4. [Film Frenzy](https://film-frenzy.herokuapp.com/) - A dynamic, responsive website for exploring the latest trends in cinema.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garyzhuo&repo=World-Explorer&theme=radical)](https://github.com/garyzhuo/World-Explorer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garyzhuo&repo=Aesthetic-Domain&theme=radical)](https://github.com/garyzhuo/Aesthetic-Domain)
+
 
 ## Software Used:
 ![image](https://user-images.githubusercontent.com/108549074/233500404-3febb902-114a-424b-be92-c85afb62b18e.png)
@@ -46,6 +50,8 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garyzhuo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://komarev.com/ghpvc/?username=garyzhuo&color=brightgreen&style=flat)
+
 
 
 ### 📝 Latest Blog Posts
@@ -54,4 +60,7 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 - [Getting started with Django: A beginner's guide](https://www.garyzhuo.com/django-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/qw4jfgb1a4fbj0t04g07zjo3d)
 
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FF813F?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/garyzhuo)
