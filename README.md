@@ -62,7 +62,7 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 <!-- BLOG-POST-LIST:END -->
 
 <p>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/garyzhuo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wervlad&theme=transparent" />
   </a>
   <a href="https://github.com/garyzhuo">
