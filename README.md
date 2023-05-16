@@ -60,3 +60,15 @@ From selling dream homes to coding dream apps, I'm the real(estate)-deal enginee
 - [How to build a responsive website using React and Tailwind CSS](https://www.garyzhuo.com/react-tailwind-css)
 - [Getting started with Django: A beginner's guide](https://www.garyzhuo.com/django-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
+
+<p>
+  <a href="https://github.com/garyzhuo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyzhuo&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/garyzhuo">
+    <img src="https://komarev.com/ghpvc/?username=garyzhuo&color=blue&style=flat)" />
+  </a>
+</p>
